@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AnimeVer/static/css/main.9758b219.css",
+    "main.js": "/AnimeVer/static/js/main.9ed7b08c.js",
+    "static/media/delete.svg": "/AnimeVer/static/media/delete.201399de2046b0339489dbc68f030ca9.svg",
+    "static/media/check.svg": "/AnimeVer/static/media/check.9a4e8e498362554effc51a8a1a906c5f.svg",
+    "index.html": "/AnimeVer/index.html",
+    "main.9758b219.css.map": "/AnimeVer/static/css/main.9758b219.css.map",
+    "main.9ed7b08c.js.map": "/AnimeVer/static/js/main.9ed7b08c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9758b219.css",
+    "static/js/main.9ed7b08c.js"
+  ]
+}
