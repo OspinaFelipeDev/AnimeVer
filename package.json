@@ -31,8 +31,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "htts://OspinaFelipeDev.github.io/BuscarAnime",
-  "devDependencies": {
-    "gh-pages": "^6.1.0"
-  }
+  "homepage": "."
 }
