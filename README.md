@@ -1,80 +1,50 @@
-<<<<<<< HEAD
-# Repositorio base del Curso de Introducción a React.js en Platzi
+# Lista de Animes
 
-¡Hola, Platzinauta!
+Una aplicación web simple para gestionar una lista de animes. Permite a los usuarios agregar nuevos animes, marcarlos como vistos, editar la información y eliminarlos de la lista.
 
-En este repositorio encontrarás el código de todas las clases del [Curso de Introducción a React.js](https://platzi.com/reactjs). Para empezar solo debes clonar este repositorio (`git clone`), instalar sus dependencias (`npm i`) y ejecutar la aplicación (`npm start`).
+## Características
 
-La rama principal contiene el código con el que eempezamos el curso. En las demás ramas encontrarás el código de las siguientes clases y finalmente el deploy de la aplicación.
+- **Agregar Anime:** Los usuarios pueden agregar nuevos animes a la lista ingresando el título y la descripción.
+- **Marcar como Visto:** Los usuarios pueden marcar los animes como vistos, lo que los tachara dentro de la lista.
+- **Editar Información:** Los usuarios pueden editar la información de un anime existente, incluido el título y la descripción.
+- **Eliminar Anime:** Los usuarios pueden eliminar un anime de la lista.
 
-¡Mucha suerte aprendiendo React! #NuncaParesDeAprender
+## Tecnologías Utilizadas
 
-## Getting Started with Create React App
+- HTML
+- CSS
+- JavaScript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Capturas de Pantalla 📷📷
 
-## Available Scripts
+- Página principal.
 
-In the project directory, you can run:
+![Inicio](./src/img/list.png)
 
-### `npm start`
+- Agregar Anime a la lista
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Agregar Anime](./src/img/list-1.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm run build`
+## Instrucciones de Uso
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clona este repositorio en tu máquina local.
+2. Abre el archivo `index.html` en tu navegador web.
+3. Para agregar un anime, haz clic en el botón "Agregar Anime" y completa el formulario.
+4. Para marcar un anime como visto, haz clic en el botón "Marcar como Visto" junto al anime correspondiente.
+5. Para editar la información de un anime, haz clic en el botón "Editar" y modifica los campos.
+6. Para eliminar un anime, haz clic en el botón "Eliminar" junto al anime correspondiente.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Contribuciones
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+¡Las contribuciones son bienvenidas! Si deseas contribuir a este proyecto, sigue estos pasos:
 
-### `npm run eject`
+1. Haz un fork del repositorio.
+2. Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`).
+3. Haz tus cambios y haz commit de ellos (`git commit -am 'Agrega nueva funcionalidad'`).
+4. Haz push de la rama (`git push origin feature/nueva-funcionalidad`).
+5. Crea un nuevo pull request.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Licencia
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# AnimeVer
-Aplicación para llevar un control de animes y series que estamos viendo!!
->>>>>>> d3558e8a7695fbac3d1e705be7a733509f1455d4
+Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para obtener más detalles.

@@ -9,9 +9,9 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "deploy": "gh-pages -d build",
-    "predeploy": "npm run build",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -31,5 +31,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "."
+  "homepage": "htts://OspinaFelipeDev.github.io/AnimeVer",
+  "devDependencies": {
+    "gh-pages": "^6.1.0"
+  }
 }
